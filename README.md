@@ -11,8 +11,8 @@
   지도상 위치를 표시 클릭시 상세 정보 확인 가능 
 
 # USED SKILL
- *java
- *JSP
- *PoestgreSQL
- *GeoServer
- *OpenStreetAPI
+ * java
+ * JSP
+ * PoestgreSQL
+ * GeoServer
+ * OpenStreetAPI
